@@ -1,6 +1,6 @@
 **2026 Contributors**
 
-1. Greg Walsh
+1. Greg Walsh, PhD
 2.   
 3.     
 4.       
